@@ -290,7 +290,7 @@ class Ui_MainWindow(object):
         
         driver = webdriver.Chrome(executable_path=(User)+'/Downloads/chromedriver', chrome_options=chrome_options) #choose whichever location you want for the chromedriver.
         time.sleep(float(Time))
-        URL = "http://www.supremenewyork.com/shop/all"
+        URL = "https://www.supremenewyork.com/shop/all"
 
         wait = WebDriverWait(driver, 10)
 
