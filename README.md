@@ -10,7 +10,7 @@ The only problems with it is that the front end design (GUI) is not very appeali
 and your chances of getting a Captcha are higher since you are using a test browser. 
 Be cautious and dont expect this bot to work 100% of the time.
 
-To install you must download Chromedriver and have it in your Downloads folder, or where ever you change the location in the code
+To install you must download Chromedriver and have it in your Downloads folder, or where ever you change the location in the code      http://chromedriver.chromium.org/downloads
 
 Running the script requires:  
 Selenium and Pyqt5 to be installed
